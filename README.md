@@ -1,0 +1,1 @@
+The dataset has been takes from https://www.kaggle.com/code/hunter0007/predictive-marketing-k-means-clustering-pca/notebook. Since the dataset was too big I have removed most of the rows in it. This dataset currently has 61000 rows and 12 columns.
